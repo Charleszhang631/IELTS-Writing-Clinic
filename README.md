@@ -58,9 +58,9 @@ This repository presents a curated collection of IELTS Writing Task 2 materials,
 ## 📬 联系方式 Contact
 
 📮 Email: [737039070zb@gmail.com](mailto:737039070zb@gmail.com)  
-📕 小红书 ID: 4230202425  
+🌐 GitHub: [Charleszhang631](https://github.com/Charleszhang631)  
 💬 微信号: 15525140485  
-🌐 GitHub: [Charleszhang631](https://github.com/Charleszhang631)
+📕 小红书 ID: 4230202425
 
 📌 欢迎联系建议、合作或问题反馈！
 
